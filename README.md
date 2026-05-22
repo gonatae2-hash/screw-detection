@@ -35,5 +35,5 @@ camera_node → detection_node → result_node (Arduino LED)
 - [ ] YOLO 3클래스 재학습 (종류까지 검출)
 
 ## 한계 및 개선 방향
-- 현재: 저해상도(320x240)로 인한 TM 오분류 발생
-- 개선: YOLO 3클래스 재학습으로 위치+종류 동시 검출 예정
+- YOLO에서 bbox생성 teachable machine로 넘겨받을때 사진 내 나사 픽셀이 너무작음
+  teachable machine 제거하고 YOLO에서 나사검출 및 나사 종류 검출 추가 예정 
