@@ -36,4 +36,8 @@ camera_node → detection_node → result_node (Arduino LED)
 
 ## 한계 및 개선 방향
 - YOLO에서 bbox생성 teachable machine로 넘겨받을때 사진 내 나사 픽셀이 너무작음
-  teachable machine 제거하고 YOLO에서 나사검출 및 나사 종류 검출 추가 예정 
+  teachable machine 제거하고 YOLO에서 나사검출 및 나사 종류 검출 추가 예정
+
+
+## 시연영상
+[시연 영상](https://github.com/user-attachments/assets/53fd0b8c-ad53-4266-851b-201cad9febe2)
