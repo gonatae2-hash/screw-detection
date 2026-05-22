@@ -1,5 +1,0 @@
-<launch>
-
-  <include file="$(find beginner_tutorials)/launch/multi_turtle.launch" />
-  <node pkg="rqt_graph" type="rqt_graph" name="rqt_graph" />
-</launch>
