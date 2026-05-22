@@ -39,5 +39,3 @@ camera_node → detection_node → result_node (Arduino LED)
   teachable machine 제거하고 YOLO에서 나사검출 및 나사 종류 검출 추가 예정
 
 
-## 시연영상
-[시연 영상](https://github.com/user-attachments/assets/53fd0b8c-ad53-4266-851b-201cad9febe2)
